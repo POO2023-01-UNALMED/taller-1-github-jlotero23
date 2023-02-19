@@ -1,0 +1,1 @@
+Hubo problemas con el punto anterior (El 8), ya que no acepta los carpetas vacias como una modificacion para crear un commit
