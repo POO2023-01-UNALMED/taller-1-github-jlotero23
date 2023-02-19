@@ -4,3 +4,9 @@ Juan José Lotero Florez
 
 Ampliar conocimientos referentes a la programación, aprender paradigmas de la programacion orientada a objetos
 para su aplicacion en oportunidades y entornos mas avanzados
+
+
+Porque ya la carpeta no está vacia, pues tiene el archivo respuesta.txt entonces ya se puede subir tranqilamente
+
+
+Porque alguien mas puede estar editando uno de los 2 y puede genera conflicto a la hora de subir el commit
