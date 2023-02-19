@@ -1,0 +1,1 @@
+Se puede hacer el commit y subir la carpeta, pues ya esta no está vacia, tiene el archivo respuesta.txt
